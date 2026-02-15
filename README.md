@@ -1,5 +1,5 @@
 # cufflinks
-Small, distroless-when-possible container for `cufflinks`.
+Small compatibility-focused container for `cufflinks`.
 
 ## how to use
 ```bash
